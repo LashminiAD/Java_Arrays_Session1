@@ -49,7 +49,7 @@ This becomes very difficult to manage.
 
 ✅ Arrays allow us to store multiple values in a single variable.
 
-2️⃣ Array Definition
+# 2️⃣ Array Definition
 
 An array is a data structure used to store multiple elements of the same data type in a single variable.
 
@@ -61,11 +61,11 @@ Stored in contiguous memory locations
 
 Accessed using index
 
-3️⃣ Array Declaration
+## 3️⃣ Array Declaration
 
 int[] arr;
 
-4️⃣ Array Creation
+## 4️⃣ Array Creation
 
 int[] arr = new int[5];
 
@@ -73,11 +73,11 @@ Default values:
 
 0 0 0 0 0
 
-5️⃣ Direct Initialization
+## 5️⃣ Direct Initialization
 
 int[] arr = {10,20,30,40,50};
 
-6️⃣ Memory Concept (Important)
+# 6️⃣ Memory Concept (Important)
 
 Example
 
@@ -101,7 +101,7 @@ Access Time Complexity
 
 O(1)
 
-7️⃣ Important Array Methods
+# 7️⃣ Important Array Methods
 
 Import first
 
@@ -131,7 +131,7 @@ Arrays.copyOf()
 
 int[] arr2 = Arrays.copyOf(arr1, arr1.length);
 
-8️⃣ Traversing an Array
+# 8️⃣ Traversing an Array
 
 Using for loop
 
@@ -149,7 +149,7 @@ Time Complexity
 
 O(n)
 
-9️⃣ Linear Search
+# 9️⃣ Linear Search
 
 Example
 
@@ -171,7 +171,7 @@ Space Complexity
 
 O(1)
 
-🔟 Problem 1 — Two Sum (#1)
+#🔟 Problem 1 — Two Sum (#1)
 
 Brute Force Solution
 
@@ -181,17 +181,17 @@ Time Complexity: O(n²)
 
 Time Complexity improves to O(n)
 
-1️⃣1️⃣ Best Time to Buy and Sell Stock (#121)
+#1️⃣1️⃣ Best Time to Buy and Sell Stock (#121)
 
 Optimized Greedy Algorithm
 
-🧠 Practice Problem
+#🧠 Practice Problem
 
 Best Time to Buy and Sell Stock II (#122)
 
 Students were asked to solve this problem independently first.
 
-Array vs ArrayList
+#Array vs ArrayList
 
     Array	                         ArrayList
   Fixed Size	                    Dynamic Size
@@ -206,7 +206,7 @@ list.add(10);
 list.add(20);
 list.add(30);
 
-🎯 Conclusion
+#🎯 Conclusion
 
 In this session students learned:
 
