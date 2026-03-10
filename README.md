@@ -1,7 +1,5 @@
 # Java Arrays - Session 1
 
-Beginner friendly introduction to Arrays and Problem Solving using Java.
-
 ## 1️⃣ Why Do We Need Arrays?
 
 Imagine storing numbers using variables:
